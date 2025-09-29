@@ -91,3 +91,9 @@
 {"level":"info","message":"User with this email does not exist","service":"acquisitions-api"}
 {"level":"info","message":"::1 - - [29/Sep/2025:18:57:05 +0000] \"POST /api/auth/login HTTP/1.1\" 400 65 \"-\" \"PostmanRuntime/7.39.1\"","service":"acquisitions-api"}
 {"level":"info","message":"::1 - - [29/Sep/2025:19:05:29 +0000] \"POST /api/auth/logout HTTP/1.1\" 200 52 \"-\" \"PostmanRuntime/7.39.1\"","service":"acquisitions-api"}
+{"level":"info","message":"User logged out successfully","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [29/Sep/2025:19:14:09 +0000] \"POST /api/auth/logout HTTP/1.1\" 200 52 \"-\" \"PostmanRuntime/7.39.1\"","service":"acquisitions-api"}
+{"level":"info","message":"User logged out successfully","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [29/Sep/2025:19:14:12 +0000] \"POST /api/auth/logout HTTP/1.1\" 200 52 \"-\" \"PostmanRuntime/7.39.1\"","service":"acquisitions-api"}
+{"level":"info","message":"User with this email does not exist","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [29/Sep/2025:19:14:20 +0000] \"POST /api/auth/login HTTP/1.1\" 400 65 \"-\" \"PostmanRuntime/7.39.1\"","service":"acquisitions-api"}
